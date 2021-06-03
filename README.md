@@ -36,3 +36,11 @@ No momento estou estudando **React** e **Redux**, tecnologias utilizadas no fron
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=huggoparcelly&theme=dark&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huggoparcelly&layout=compact&langs_count=16&theme=dark"/>
 <div>
+
+##
+ 
+<div>
+ 
+  ![Snake animation](https://github.com/huggoparcelly/huggoparcelly/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
