@@ -15,7 +15,7 @@ No momento estou estudando **React** e **Redux**, tecnologias utilizadas no fron
 - 🎯 Buscar novos conhecimentos para evoluir na minha carreira de desenvolvedor
 - 🤗 Meus hobbies são esportes, música, viajar e ler livros
 - 🌳 Amo a natureza e os animais
-- 📫 Para entrar em contato, envie um email para h.parcelly@gmail.com
+- 📫 Pode entrar em contato através das redes sociais ou enviar um email para h.parcelly@gmail.com
 
 #### Linguagens e ferramentas:
 
