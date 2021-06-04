@@ -16,7 +16,7 @@ No momento estou estudando **React** e **Redux**, tecnologias utilizadas no fron
 - 🤗 Meus hobbies são esportes, música, viajar e ler livros
 - 🌳 Amo a natureza e os animais
 - 📫 Contato através das redes sociais ou envie um email para h.parcelly@gmail.com
-- 🔗 Visite meu portfólio https://huggoparcelly.github.io/
+- 🔗 Visite meu portfólio <a href="https://huggoparcelly.github.io/" target="_blank" />
 
 #### Linguagens e ferramentas:
 
