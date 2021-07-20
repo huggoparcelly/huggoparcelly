@@ -2,7 +2,7 @@
 
 Me chamo Huggo Parcelly. Atualmente resido em Campina Grande, Paraíba, sou estudante de Desenvolvimento de Software na Trybe e Ciências da Computação na Federal de Campina Grande. 👨‍💻🚀
 
-No momento estou estudando **MySQL** e tecnologias utilizadas no **Back-end**. 📚🔙🔚
+No momento estou estudando **MySQL** e tecnologias utilizadas no **Back-end**. 📚💻🔙
 
 <div> 
   <a href = "mailto: h.parcelly@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
