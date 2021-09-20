@@ -2,7 +2,7 @@
 
 Me chamo Huggo Parcelly. Atualmente resido em Campina Grande, Paraíba, sou estudante de Desenvolvimento de Software na Trybe e Ciências da Computação na Federal de Campina Grande. 👨‍💻🚀
 
-No momento estou estudando **bancos de dados** e tecnologias utilizadas no **Back-end**. 📚💻🔙
+No momento estou estudando **Node.js** e tecnologias utilizadas no **Back-end**. 📚💻🔙
 
 <div> 
   <a href = "mailto: h.parcelly@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -28,6 +28,7 @@ No momento estou estudando **bancos de dados** e tecnologias utilizadas no **Bac
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 # 
